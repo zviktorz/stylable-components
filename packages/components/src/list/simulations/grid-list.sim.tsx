@@ -26,7 +26,7 @@ export default createSimulation<List<ItemData>>({
         },
     },
     environmentProps: {
-        canvasWidth: 331,
+        canvasWidth: 475,
         canvasHeight: 138,
     },
 });

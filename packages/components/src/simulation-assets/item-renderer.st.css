@@ -1,8 +1,9 @@
 .root {
     -st-states: focused, selected;
     display: flex;
-    justify-content: space-between;
-    color: gray;
+    justify-content: flex-start;
+    color: #000624;
+    font-family: Tahoma, sans-serif;
 }
 
 .root:focused {

@@ -17,7 +17,7 @@ export const ItemRenderer: React.FC<ListItemProps<ItemData>> = (props) => {
             })}
             data-id={props.id}
         >
-            <AddFileIcon />
+            <AddFileIcon className={classes.icon} />
             <SearchableText className={classes.text} text={props.data.title} />
         </div>
     );
