@@ -1,0 +1,9 @@
+@font-face {
+    font-family: keys;
+    src: url("./keyboardshortcut-Regular-SVG.otf") format("opentype");
+}
+
+
+.root {
+    font-family: keys;
+}

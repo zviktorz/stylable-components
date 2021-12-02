@@ -1,0 +1,13 @@
+@st-import KeyViewer from "./key-viewer.st.css";
+
+.small {
+    -st-extends: KeyViewer;
+}
+
+.medium {
+    -st-extends: KeyViewer;
+}
+
+.large {
+    -st-extends: KeyViewer;
+}
