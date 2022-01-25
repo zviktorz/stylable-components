@@ -1,5 +1,5 @@
 # stylable-components
-Forked version of stylable components to play aroud with static deploy
+Forked version of stylable components to play aroud with static deploy!
 
 [![Build Status](https://github.com/wixplosives/stylable-components/workflows/tests/badge.svg)](https://github.com/wixplosives/stylable-components/actions)
 
